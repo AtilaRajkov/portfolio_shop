@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mukta:300,400,700"> 
-    <link href="../public/assets/fonts/icomoon/style.css" rel="stylesheet" type="text/css"/>
+    <link href="/public/assets/fonts/icomoon/style.css" rel="stylesheet" type="text/css"/>
 
     <link href="/public/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     
